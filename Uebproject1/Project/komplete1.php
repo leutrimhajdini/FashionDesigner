@@ -18,9 +18,9 @@
     <div class="row">
         <div class="col">
             <div class="product-images mt-5">
-                <img src="./Fotot/Dhura.jpg" alt="Product Image 1" class="Produkti">
-                <img src="./Fotot/Dhura-2.jpg" alt="Product Image 2" class="Produkti">
-                <img src="./Fotot/Dhura-3.jpg" alt="Product Image 3" class="Produkti">
+                <img src="./Fotot/komplete3.jpg" alt="Product Image 1" class="Produkti">
+                <img src="./Fotot/komplete2.jpg" alt="Product Image 2" class="Produkti">
+                <img src="./Fotot/komplete1.jpg" alt="Product Image 3" class="Produkti">
                 <button class="previous-arrow">❮</button>
                 <button class="next-arrow">❯</button>
               </div>
