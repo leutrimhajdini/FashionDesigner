@@ -150,7 +150,7 @@
             <ul class="navbar-nav ms-auto ">
               <li class="nav-item">
                 <div id="products_in_cart">0</div>
-                <a class="nav-link mx-2 text-uppercase" href="/html/cart.php">&#x1F6D2; <span id="shporta">0,00</span>€</a>
+                <a class="nav-link mx-2 text-uppercase" href="/html/cart.php">&#x1F6D2; <span id="shporta">0,00</span></a>
               </li>
               <li class="dropdown">
                 <button class="dropdown-toggle">&#x1F469; Llogaria</button> 
@@ -165,4 +165,18 @@
       </nav>
 </header>
 
-<script src="./js/produktet.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const productsInCart = document.getElementById('products_in_cart');
+    const cartValue = document.getElementById('shporta');
+    
+    // Initialize item count
+    let currentCount = localStorage.getItem('currentItemCount') || 0;
+    productsInCart.textContent = currentCount;
+    
+    // Initialize cart value
+    let currentCartValue = localStorage.getItem('cartValue') || 0;
+    cartValue.textContent = parseFloat(currentCartValue).toFixed(2).replace('.', ',') + '€';
+});
+</script>

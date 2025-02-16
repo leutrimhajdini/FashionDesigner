@@ -19,9 +19,9 @@ table {
         border-collapse: collapse;
 }
 th, td {
-        border: 1px solid black;
-        padding: 8px;
-        text-align: left;
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
 }
 th {
         background-color: #f2f2f2;
@@ -34,12 +34,8 @@ th {
 }
 
   
-.margin{
+#leftAndRightMargin{
   margin-left: 5%;
   margin-right: 5%;
-}
-body{
-  background-color: #FFF7F8;
-
 }
 

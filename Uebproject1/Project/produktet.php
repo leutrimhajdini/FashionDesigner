@@ -26,7 +26,10 @@
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                 <a href="komplete1.php"><img src="./Fotot/Dhura.jpg" alt="Product Image 1 " class="Produkti img-fluid"></a> <br>
                 <a href="Komplete1.php" class="product-description">Komplete për femra</a>
-                <p class="product-price"><span style="text-decoration: line-through;">199,99€</span>      <span  class="productPrice" style="margin-left:0.5%; color:red; "><b>99,90€</b> </span>     <button class="yellow-button">Në shportë</button>
+                <p class="product-price">
+                <span style="text-decoration: line-through;">199,99€</span>      
+                <span  class="productPrice" style="margin-left:0.5%; color:red; "><b>99,90€</b> </span>     
+                <button class="yellow-button">Në shportë</button>
                 </p>
             </div>
 

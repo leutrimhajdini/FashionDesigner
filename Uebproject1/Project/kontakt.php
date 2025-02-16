@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./css/kontakt.css">
     <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
     <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <link rel="shortcut icon" type="image/x-icon" href="/Fotot/rrj.png">
+    <link rel="shortcut icon" type="image/x-icon" href="./Fotot/rrj.png">
 
     <title>Kontakt</title>
     
