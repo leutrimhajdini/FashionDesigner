@@ -1,0 +1,58 @@
+body{
+  box-sizing: border-box;
+  font-family: "Atkinson Hyperlegible Next", serif;
+  background-color: #FFFFEA;
+}
+
+#kontaktiText{
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 5%;
+  text-align: center;
+}
+
+#nameEmail{
+  display: flex;
+  justify-content: space-between;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#nameDiv, #emailDiv{
+  display: block;
+  gap: 5%;
+  width: 48%;
+  box-sizing: border-box;
+  }
+
+.customer-support {
+
+  margin-top: 5%;
+  margin-right: auto;
+  margin-left: auto;  
+  width: 50%;
+}
+.contact-form {
+  margin-top: 2%;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+.contact-form label{
+  display: block;
+}
+.contact-form input, .contact-form textarea, #nameDiv input, #emailDiv input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+.contact-form input[type="submit"] {
+  background-color: black;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: larger;
+}

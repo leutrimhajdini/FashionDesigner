@@ -1,0 +1,99 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  box-sizing: border-box;
+  font-family: "Atkinson Hyperlegible Next", serif;
+  background-color: #FFFFEA;
+}
+  
+  
+  a{
+  text-decoration: underline;
+  color:whitesmoke;
+  }
+  a:hover{
+  color:blue;
+  }
+  a:active {
+  color: red;
+  }
+  a:visited{
+  color: purple;
+  }
+
+.Produkti{
+    width: 85%;
+    height: 80%;
+    max-height: 100%;
+    max-width: 100%;
+    border-radius: 30px;
+}
+
+.product-description{
+  margin-left: 1.5%;
+  text-decoration: none;
+  color:black;  
+  font-size: large;
+  font-family: sans-serif;
+}
+
+.yellow-button {
+  background-color: #ff9900;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.yellow-button:hover {
+  transform: scale(1.1);
+}
+.product-description{
+  justify-content: center;
+  
+}
+
+
+#products_in_cart{
+  border: 1px solid red;
+  background-color: white;
+  color: red;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: 30px;
+  width: 20px;
+  height: 20px;
+  max-width: 40px;
+  max-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+.page-link{
+  border-radius: 50px;
+  background-color: #F8FFF4;
+  
+}
+
+.pagination{
+  margin-left: -80px;
+}
+
+body{
+  background-color: #F0F6F6;
+}
+
+.product-price{
+  margin-left: 2%;
+}
+
+#shporta{
+  margin-left: 8px;
+}

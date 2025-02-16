@@ -1,0 +1,129 @@
+body{
+  box-sizing: border-box;
+  font-family: "Atkinson Hyperlegible Next", serif;
+  background-color: #FFFFEA;
+}
+
+a{
+text-decoration: underline;
+color:whitesmoke;
+}
+a:hover{
+color:blue;
+}
+a:active {
+color: red;
+}
+a:visited{
+color: purple;
+}
+  
+  
+
+  
+  .Produkti{
+      width: 350px;
+      margin-bottom: 10vh;
+      position: relative;
+      border-radius: 20px;
+
+  }
+  
+  .product-images {
+    position: relative;
+    width: 350px; 
+    margin: 0 auto; 
+      }
+    
+    .product-images img {
+      display: none;
+    }
+    
+    .product-images img.active {
+      display: block;
+    }
+  .previous-arrow, .next-arrow {
+    cursor: pointer;
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    user-select: none;
+    -webkit-user-select: none;
+    height: 50px;
+    width: 30px;
+    background: rgba(255, 255, 255, 0.2); /* Optional: Adds background for better visibility */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    .previous-arrow {
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+  }
+  
+  .next-arrow {
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+  }
+    
+    .previous-arrow:hover, .next-arrow:hover {
+      background-color: rgba(0,0,0,0.0);
+    }
+  
+     .product-images img.active, .product-images2 img.active {
+      display: block;
+    }
+  .titulli{
+      margin-left: 5%;
+      margin-top: 5%;
+      
+  }
+  .blerje{
+    width: 250px;
+    padding: 20px;
+    margin: 12% 20px 12% 25%;
+    border: 1px solid rgb(174, 174, 174);
+  }
+  .yellow-button {
+    background-color: #ff9900;
+    color: #fff;
+    padding: 10px 15px;
+    margin-top: 30px;
+    margin-left: 50px; 
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .yellow-button:hover {
+    transform: scale(1.1);
+  }
+  
+  .Related{
+    margin-bottom: 5%;
+  }
+  
+  .Relatedfoto{
+    height: 200px;
+    margin-left: 7%;
+    border-radius: 10px;
+  }
+  .Relatedtext{
+    margin-left: 67%;
+  }
+  .Relatedlink{
+    color:black;
+    text-decoration: none;
+    margin-left: 15%;
+  }
+  .Relatedlink:hover{
+    color:red;
+  }
+  
+  body{
+    background-color: #F0F6F6;
+  }
