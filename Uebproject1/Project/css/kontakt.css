@@ -56,3 +56,13 @@ body{
   cursor: pointer;
   font-size: larger;
 }
+
+.horizontalLine{
+    margin-top: 10px;
+    border-top: 1px solid black;
+}
+
+
+.faq-section{
+  margin-bottom: 5%;
+}

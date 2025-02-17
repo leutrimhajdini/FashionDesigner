@@ -46,8 +46,24 @@
               <input type="submit" value="Submit">
             </form>
           </div>
-        </div>
-        </div>
+        <div>Ju lutem perfshini sa me shume detaje ne mesazh qe te kemi me te lehte per te ju ndihmuar</div>  
+      </div>
+      <br><br><br><br><br>
+
+      <div class="faq-section">
+      <h1 style="margin-left: auto; margin-right: auto; text-align: center;">FAQ</h1>
+      
+      <div class="horizontalLine" style="margin-top: 10px; border-top: 1px solid black; width: 50%; margin-left: auto; margin-right: auto;"></div>
+
+
+      
+      </div>
+
+
+
+
+
+
 
 
 
