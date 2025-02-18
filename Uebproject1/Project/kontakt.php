@@ -53,11 +53,37 @@
       <div class="faq-section">
         <h1 style="text-align: center;">FAQ</h1>
         <div id="horizontalLine"></div>
-        <div id="questionExtendAnswer">
+        <div class="questionExtendAnswer">
           <div id="question">Si mund të porosisë?</div>
           <div id="extendAnswer">+</div>
         </div>
         <div id="answer">Pasi të keni zgjedhur produktin e dëshiruar, shtoni në shportë dhe zgjedheni adresën dhe mënyren e pageses</div>
+        <div id="horizontalLine"></div>
+        <div class="questionExtendAnswer">
+          <div id="question">Si ta dijë çfarë mase të porosisë?</div>
+          <div id="extendAnswer">+</div>
+        </div>
+        <div id="answer">Në ofrojme një tabelë madhësie për t'ju ndihmuar të përcaktoni madhësinë e duhur për ju në faqen tone. Navigoni tek "Permasat" dhe do ti gjeni detajet.</div>
+        <div id="horizontalLine"></div>
+        <div class="questionExtendAnswer">
+          <div id="question">A mund të zgjedhë ngjyra dhe detaje tjera?</div>
+          <div id="extendAnswer">+</div>
+        </div>
+        <div id="answer">Ngjyra e produkteve janë sipas dëshires suaj, pasi ta keni zgjedhur produktin, na shkruani një mesazh me ngjyrën e deshiruar dhe detaje tjera qe doni të kostumizoni</div>
+        <div id="horizontalLine"></div>
+        <div class="questionExtendAnswer">
+          <div id="question">Në cilat shtete behët transporti?</div>
+          <div id="extendAnswer">+</div>
+        </div>
+        <div id="answer">Aktualisht mund të dergojmë porosi vetëm në Kosovë, Shqipëri dhe Maqedoni të Veriut, mirëpo shumë shpejtë do të mundesojmë transportin ndërkombëtar</div>
+        <div id="horizontalLine"></div>
+        <div class="questionExtendAnswer">
+          <div id="question">A ofroni shndërrime dhe këthime?</div>
+          <div id="extendAnswer">+</div>
+        </div>
+        <div id="answer">Porositë e veshjeve të kostumizuara mund të anulohen nëse produkti nuk i plotëson pritshmëritë e klientit, por pagesa është e pakthyeshme. Në vend të kësaj, klienti mund të zgjedhë të blejë një produkt tjetër me vlerë të barabartë.</div>
+        <div id="horizontalLine"></div>
+
       </div>
 
 
@@ -153,7 +179,7 @@
       
     
 </footer>
-<script src="./js/sherbimet.js">
+<script src="./js/kontakt.js">
 
 </script>
 

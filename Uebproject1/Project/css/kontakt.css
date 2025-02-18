@@ -71,15 +71,15 @@ body{
   margin-right: auto;
 }
 
-#questionExtendAnswer{
+.questionExtendAnswer{
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  width: 73%;
   cursor: pointer;
-
+  
 }
 
 #question{
@@ -88,6 +88,7 @@ body{
   font-size: 1.51rem;
   margin-left: auto;
   margin-right: auto;
+  padding: 30px 20px 30px 0px;
 }
 
 #extendAnswer{
@@ -96,5 +97,8 @@ body{
 }
 
 #answer{
-  visibility: hidden;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%; 
+  display: none;
 }
