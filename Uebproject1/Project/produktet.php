@@ -24,7 +24,7 @@
 
         <div class="row justify-content-center mt-5">
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="komplete1.php"><img src="./Fotot/Dhura.jpg" alt="Product Image 1 " class="Produkti img-fluid"></a> <br>
+                <a href="komplete1.php"><img src="./Fotot/komplete3.jpg" alt="Product Image 1 " class="Produkti img-fluid"></a> <br>
                 <a href="Komplete1.php" class="product-description">Komplete për femra</a>
                 <p class="product-price">
                 <span style="text-decoration: line-through;">199,99€</span>      
@@ -120,6 +120,92 @@
       <li class="page-item"><a class="page-link" href="#">>|</a></li>
     </ul>
   </nav>
+
+
+  <footer class="text-white text-center text-lg-start bg-dark">
+        <!-- Grid container -->
+        <div class="container p-4">
+          <!--Grid row-->
+          <div class="row mt-4">
+            <!--Grid column-->
+            <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+              <h5 class="text-uppercase mb-4">Rreth nesh</h5>
+    
+              <p>
+                  Tek rrobaqepese Jeta, ne jemi të pasionuar për krijimin e produkteve që kanë një ndikim pozitiv në jetën e njerëzve.
+              </p>
+    
+              <p>
+                  Përkushtimi ynë ndaj cilësisë dhe inovacionit na shtyn të shtyjmë vazhdimisht kufijtë e asaj që është e mundur.
+              </p>
+    
+  
+            </div>
+            <!--Grid column-->
+    
+            <!--Grid column-->
+            <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+              <h5>Rrjetet sociale</h5>
+              <div class="form-outline form-white mb-4">
+                  <ul class="fa-ul" style="margin-left: 1.65em;">
+                      <li class="mb-3">
+                        <span class="fa-li"><i class="fas fa-home"></i></span><a href="https://www.facebook.com/rrobaqepesejeta" target="_blank" style="font-weight:normal"><span class="ms-2">Facebook</span></a>
+                      </li>
+                      <li class="mb-3">
+                          <span class="fa-li"><i class="fas fa-home"></i></span><a href="https://www.instagram.com/rrobaqepese_jeta/?hl=en" target="_blank" style="font-weight:normal"><span class="ms-2">Instagram</span></a>
+                    </ul>           
+                   </div>
+              <h5>Detajet e kontaktit</h5>
+              <ul class="fa-ul" style="margin-left: 1.65em;">
+                <li class="mb-3">
+                  <span class="fa-li"><i class="fas fa-home"></i></span><span class="ms-2">Dëshmorët e Kombit, Mitrovica, Kosovo, 40060</span>
+                </li>
+                <li class="mb-3">
+                  <span class="fa-li"><i class="fas fa-envelope"></i></span><span class="ms-2"> info@rrobaqepesejeta.com</span>
+                </li>
+                <li class="mb-3">
+                  <span class="fa-li"><i class="fas fa-phone"></i></span><span class="ms-2">+383 49 403 024</span>
+                </li>
+              </ul>
+            </div>
+            <!--Grid column-->
+    
+            <!--Grid column-->
+            <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+              <h5 class="text-uppercase mb-4">Orari i punës</h5>
+    
+              <table class="table text-center text-white">
+                <tbody class="fw-normal">
+                  <tr>
+                    <td>E hëne - E premte:</td>
+                    <td>10:00 - 18:00</td>
+                  </tr>
+                  <tr>
+                    <td>E shtune:</td>
+                    <td>12:00 - 18:00</td>
+                  </tr>
+                  <tr>
+                    <td>E diele:</td>
+                    <td>Pushim</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </div>
+        <!-- Grid container -->
+    
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+          © 2023 Copyright:
+          <a class="text-white" href="index.php">rrobaqepesejeta.com</a>
+        </div>
+        <!-- Copyright -->
+      
+    
+</footer>
     <script src="./js/produktet.js"></script>
 </body>
 </html>

@@ -28,7 +28,7 @@
             <form action="send_form.php" method="post">
             <div id="nameEmail">
               <div id="nameDiv">
-            <label for="name">Name *</label>
+            <label for="name">Emri *</label>
               <input type="text" id="name" name="name" required>
               </div>
               <div id="emailDiv">
@@ -37,26 +37,27 @@
               </div>
             </div>
 
-              <label for="subject">Subject *</label><br>
+              <label for="subject">Titulli *</label><br>
               <input type="text" id="subject" name="subject" required>
       
-              <label for="message">Message *</label><br>
+              <label for="message">Mesazhi *</label><br>
               <textarea id="message" name="message" rows="5" required></textarea>
                 <br><br>
               <input type="submit" value="Submit">
             </form>
           </div>
-        <div>Ju lutem perfshini sa me shume detaje ne mesazh qe te kemi me te lehte per te ju ndihmuar</div>  
+        <div>Ju lutem perfshini sa më shumë detaje në mesazh që të kemi më të lehtë për të ju ndihmuar</div>  
       </div>
       <br><br><br><br><br>
 
       <div class="faq-section">
-      <h1 style="margin-left: auto; margin-right: auto; text-align: center;">FAQ</h1>
-      
-      <div class="horizontalLine" style="margin-top: 10px; border-top: 1px solid black; width: 50%; margin-left: auto; margin-right: auto;"></div>
-
-
-      
+        <h1 style="text-align: center;">FAQ</h1>
+        <div id="horizontalLine"></div>
+        <div id="questionExtendAnswer">
+          <div id="question">Si mund të porosisë?</div>
+          <div id="extendAnswer">+</div>
+        </div>
+        <div id="answer">Pasi të keni zgjedhur produktin e dëshiruar, shtoni në shportë dhe zgjedheni adresën dhe mënyren e pageses</div>
       </div>
 
 
@@ -68,7 +69,7 @@
 
 
 
-      <footer class="text-white text-center text-lg-start bg-dark">
+<footer class="text-white text-center text-lg-start bg-dark">
         <!-- Grid container -->
         <div class="container p-4">
           <!--Grid row-->

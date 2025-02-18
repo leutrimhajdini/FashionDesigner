@@ -5,7 +5,7 @@
 body{
   box-sizing: border-box;
   font-family: "Atkinson Hyperlegible Next", serif;
-  background-color: #FFFFEA;
+  background-color: #F0F6F6;
 }
   
   
@@ -86,9 +86,6 @@ body{
   margin-left: -80px;
 }
 
-body{
-  background-color: #F0F6F6;
-}
 
 .product-price{
   margin-left: 2%;

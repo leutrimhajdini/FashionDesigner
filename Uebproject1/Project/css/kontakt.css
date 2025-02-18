@@ -1,7 +1,7 @@
 body{
   box-sizing: border-box;
   font-family: "Atkinson Hyperlegible Next", serif;
-  background-color: #FFFFEA;
+  background-color: #F0F6F6;
 }
 
 #kontaktiText{
@@ -23,11 +23,9 @@ body{
   display: block;
   gap: 5%;
   width: 48%;
-  box-sizing: border-box;
   }
 
 .customer-support {
-
   margin-top: 5%;
   margin-right: auto;
   margin-left: auto;  
@@ -57,12 +55,46 @@ body{
   font-size: larger;
 }
 
-.horizontalLine{
-    margin-top: 10px;
-    border-top: 1px solid black;
+.faq-section{
+  display: block;
+  margin-bottom: 5%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
+#horizontalLine{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-top: 1px solid black;
+  width: 50%; 
+  margin-left: auto; 
+  margin-right: auto;
+}
 
-.faq-section{
-  margin-bottom: 5%;
+#questionExtendAnswer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  cursor: pointer;
+
+}
+
+#question{
+  text-align: start;
+  width: 50%;
+  font-size: 1.51rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#extendAnswer{
+  margin-right: auto;
+  
+}
+
+#answer{
+  visibility: hidden;
 }
