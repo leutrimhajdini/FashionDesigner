@@ -1,0 +1,38 @@
+body{
+    box-sizing: border-box;
+    font-family: "Atkinson Hyperlegible Next", serif;
+    background-color: #F0F6F6;
+}
+
+.cart-items{
+    background-color: #FFFFFF;
+    width: 70%;
+    margin: 5%;
+}
+
+#shoppingPrice{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 1%;
+}
+
+#horizontalLine{
+    margin-bottom: 5%;
+    border-top: 1px solid rgba(0, 0, 0, 0.3);
+
+  }
+
+.imageAndTitle img{
+    width: 15%;
+    margin: 0 3% 3% 3%;
+}
+
+.imageAndTitle{
+    display: flex;
+    text-align: start;
+}
+
+.imageAndTitle span{
+}

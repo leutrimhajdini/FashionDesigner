@@ -19,7 +19,10 @@
     <div id="leftAndRightMargin">
     <br><br>
     <h2>Udhëzues për përmasat</h2>
-    <p>Për të gjetur përmasat tuaja të përsosura, ju lutemi referojuni grafikut të madhësisë së mëposhtme:</p>
+    <p>Për të gjetur përmasat tuaja të duhura, ju lutemi referojuni tabeles dhe figures të madhësisë së mëposhtme:</p>
+    <img src="./Fotot/measurment-chart.jpg" alt="Measurment Chart" id="measurment-chart">
+    
+    
     <table id="size-chart">
       <tr>
         <th>Madhësisa</th>
@@ -59,8 +62,9 @@
       </tr>
       <!-- Add more size categories as needed -->
     </table>
-    <p class="instructions">Për të matur gjoksin, belin dhe ijet tuaja, ju lutemi ndiqni udhëzimet e mëposhtme:</p>
     <div class="instructions">
+
+    <p>Për të matur gjoksin, belin dhe ijet tuaja, ju lutemi ndiqni udhëzimet e mëposhtme:</p>
       <ul>
         <li>Gjoksi: Matni pjesën më të plotë të gjoksit tuaj</li>
         <li>Beli: Matni pjesën më të ngushtë të belit tuaj</li>

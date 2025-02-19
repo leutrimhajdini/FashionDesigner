@@ -150,7 +150,7 @@
             <ul class="navbar-nav ms-auto ">
               <li class="nav-item">
                 <div id="products_in_cart">0</div>
-                <a class="nav-link mx-2 text-uppercase" href="/html/cart.php">&#x1F6D2; <span id="shporta">0,00</span></a>
+                <a class="nav-link mx-2 text-uppercase" href="cart.php">&#x1F6D2; <span id="shporta">0,00</span></a>
               </li>
               <li class="dropdown">
                 <button class="dropdown-toggle">&#x1F469; Llogaria</button> 
