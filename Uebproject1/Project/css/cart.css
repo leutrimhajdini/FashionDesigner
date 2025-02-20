@@ -16,6 +16,7 @@ body{
     align-items: center;
     text-align: center;
     margin: 1%;
+
 }
 
 #horizontalLine{
@@ -31,8 +32,13 @@ body{
 
 .imageAndTitle{
     display: flex;
-    text-align: start;
+    justify-content: space-between;
+
 }
 
-.imageAndTitle span{
+.subprice{
+    font-size: larger;
+    margin: 1%;
+    justify-content: end;
+    text-align: end;
 }

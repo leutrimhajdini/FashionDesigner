@@ -17,14 +17,25 @@
   <div class="cart-items">
     <div id="shoppingPrice">
     <h2>Shopping cart</h2>
-    <span>Price</span>
+    <div>Price</div>
     </div>
+
     <div id="horizontalLine"></div>
-    <div class="imageAndTitle">
-      <img src="./Fotot/kapese.jpg" alt="Cart-Item #1">
-      <span>Kapese per floke</span>
-    </div>
-  </div>
+      <div class="imageAndTitle">
+        <img src="./Fotot/kapese.jpg" alt="Cart-Item #1">
+        <div>Kapese per floke</div>
+        <div style="margin-right: 1%">3.99</div>
+      </div>
+      <div id="horizontalLine" style="margin-bottom: 2%;"></div>
+
+      <div class="subprice">
+        <div>Subtotal <span id="totalItems">(2 items): </span><span id="totalPrice">3.99</span></div>
+      </div>
+
+      </div>
+
+
+
 
 
   <footer class="text-white text-center text-lg-start bg-dark">
