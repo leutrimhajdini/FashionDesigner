@@ -31,10 +31,14 @@
       <div class="subprice">
         <div>Subtotal <span id="totalItems">(2 items): </span><span id="totalPrice">3.99</span></div>
       </div>
-
+      <div id="checkoutSection">
+        <button id="checkout">Konfirmo porosinë</button>
       </div>
+    </div>
 
+      <div class="whiteBackground"></div>
 
+      <div class="infos">Karroca është një vend i përkohshëm për të ruajtur një listë të artikujve tuaj dhe pasqyron çmimin më të fundit të secilit artikull. Çmimi dhe disponueshmëria e artikujve në mund të ndryshojnë. Pasi ta perfundoni porosinë, ekipi jonë do të ju kontaktoj në numrin e telefonit për të konfirmuar porosinë. Pagesa kryhet pasi ta keni marrë produktin.</div>
 
 
 

@@ -7,7 +7,7 @@ body{
 .cart-items{
     background-color: #FFFFFF;
     width: 70%;
-    margin: 5%;
+    margin: 5% 5% 5% 2%;
 }
 
 #shoppingPrice{
@@ -41,4 +41,22 @@ body{
     margin: 1%;
     justify-content: end;
     text-align: end;
+}
+
+.whiteBackground{
+    background-color: #FFFFFF;
+    width: 70%;
+    margin: 5% 5% 1% 2%;
+    padding: 2%;
+
+}
+
+.infos{
+    width: 70%;
+    margin: 0 5% 5% 5%;
+    font-size: small;
+}
+
+#checkoutSection{
+    align-items: end;
 }
