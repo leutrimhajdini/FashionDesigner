@@ -20,14 +20,14 @@ body{
 }
 
 #horizontalLine{
-    margin-bottom: 5%;
+    margin-bottom: 1%;
     border-top: 1px solid rgba(0, 0, 0, 0.3);
 
   }
 
 .imageAndTitle img{
-    width: 15%;
-    margin: 0 3% 3% 3%;
+    width: 5%;
+    margin: 0 1% 1% 1%;
 }
 
 .imageAndTitle{

@@ -42,11 +42,11 @@ body{
 .yellow-button {
   background-color: #ff9900;
   color: #fff;
-  padding: 10px 15px;
+  padding: 10px;
   border-radius: 5px;
   border: none;
   cursor: pointer;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .yellow-button:hover {
