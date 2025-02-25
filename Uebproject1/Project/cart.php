@@ -27,14 +27,14 @@
         <div style="margin-right: 1%">3.99</div>
       </div>
       <div id="horizontalLine"></div>
-
       <div class="subprice">
-        <div>Subtotal <span id="totalItems">(2 items): </span><span id="totalPrice">3.99</span></div>
+        <div>Subtotal <span id="totalItems">(1 item): </span><span id="totalPrice">3.99</span></div>
       </div>
       <div id="checkoutSection">
         <button id="checkout">Konfirmo porosinë</button>
       </div>
     </div>
+
 
       <div class="whiteBackground"></div>
 
